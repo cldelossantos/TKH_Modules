@@ -1,0 +1,67 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid601\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid701\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid8}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\li360\fi-360\ri0\partightenfactor0
+\ls1\ilvl0
+\f0\fs24 \cf0 1.	In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+\pard\pardeftab720\li360\ri0\partightenfactor0
+\cf0 When typing a letter on a keyboard the keyboard receives a message as you press down on a key and sends a scancode to the computer. To make the letter typed appear on the screen the computer must pull out an image from its font memory. The image is made out of lines and circles that somehow the computer must interpret in pixels so that it appears on the screen. \
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+\pard\pardeftab720\li360\fi-360\ri0\partightenfactor0
+\ls2\ilvl0\cf0 2.	In your own words, how do computers use input and output to create experiences? (250 words max)\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+\
+\pard\pardeftab720\li360\fi-360\ri0\partightenfactor0
+\ls3\ilvl0\cf0 3.	Explain why software products are essentially \'93infinitely reproducible nothings.\'94 (150 words max)\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+\pard\pardeftab720\li360\ri0\partightenfactor0
+\cf0 The reason why software products are \'93infinitely reproducible nothings\'92 is because, even though they are not actual physical products like the actual hardware of a computer, they are what makes the computer function. Software produces digital executions that can be repeatedly reproduced, therefore making it infinite. Software is also constantly evolving to meet the needs of the world, another reason why it can be considered infinite.\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0  \
+\pard\pardeftab720\li360\fi-360\ri0\partightenfactor0
+\ls4\ilvl0\cf0 4.	Explain in your own words how code becomes software. (150 words max)\
+\pard\pardeftab720\li360\ri0\partightenfactor0
+\cf0 \
+Code becomes software by turning code into a set of clear and detailed instructions, or \'93language\'94 that can be carried out by \'93interconnected logic gates\'94. Programming languages allows developers to arrange their instructions in strings, arrays, and trees that can then be passed on to a compiler which turns this language into lower-level instructions. The compiler then goes through every piece of character in the set of instructions looking for arguments and functions for the computer to carry out.\
+\
+\pard\pardeftab720\li360\fi-360\ri0\partightenfactor0
+\ls5\ilvl0\cf0 5.	Explain \'93algorithms\'94 in your own words. (150 words max)\
+\pard\pardeftab720\li360\ri0\partightenfactor0
+\cf0 \
+Algorithms are problem solving operations that ultimately make our lives easier. These operations are constantly used in programming. Programming languages are able to organize algorithms in a way that is easy to run them as many times as needed without having to code for the algorithm constantly. Programming languages can bring together algorithms and execute them in a way that can make the computer look as if it\'92s performing functions instinctually when it\'92s really not. \
+\
+\pard\pardeftab720\li360\fi-360\ri0\partightenfactor0
+\ls6\ilvl0\cf0 6.	Explain the DRY principle. (100 words max)\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+\pard\pardeftab720\li360\ri0\partightenfactor0
+\cf0 DRY is an acronym that stands for Don\'92t Repeat Yourself. This principle says that programmers should not repeat themselves and have the computer repeat themselves it makes your code more readable and maintable  by making it more concise for the future \
+\
+\pard\pardeftab720\li360\fi-360\ri0\partightenfactor0
+\ls7\ilvl0\cf0 7.	In your own words, what is object-oriented programming? (100 words max)\
+\pard\pardeftab720\li360\ri0\partightenfactor0
+\cf0 \
+Object oriented programming is a type of programming that is associated with certain languages. It tries to replicat real world objects. It allows you to build a real world representation of an idea by adding attributes and functions. \
+\pard\pardeftab720\li360\fi-360\ri0\partightenfactor0
+\ls8\ilvl0\cf0 8.	In your own words explain data and how it relates to code. (100 Words max)\
+9.	What is a framework? (150 words max)\
+10.	What is debugging? (150 words max)\
+11.	Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)\
+}
