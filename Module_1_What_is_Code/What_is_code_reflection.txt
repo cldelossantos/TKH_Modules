@@ -1,0 +1,66 @@
+﻿Claudia De Los Santos
+
+
+1.  In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+
+
+When typing a letter on a keyboard the keyboard receives a message as you press down on a key and sends a scancode to the computer. To make the letter typed appear on the screen the computer must pull out an image from its font memory. The image is made out of lines and circles that somehow the computer must interpret in pixels so that it appears on the screen. 
+
+
+2.  In your own words, how do computers use input and output to create experiences? (250 words max)
+     
+     Computers take user input, breaking it down in a series of step, leading to the production of an output that is understood by the user. Usually the user will use their keyboard or mouse to input a message for the computer.  A programming language or code is the unifying factor between user input and the computer. The computer is able to translate code by scanning it and looking for functions or commands for the computer to carry out through an output. Output can result in certain display on a screen, or typing on your word document, or your music streaming platform playing the next song.  
+
+
+
+
+3.  Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+
+
+The reason why software products are “infinitely reproducible nothings’ is because, even though they are not actual physical products like the actual hardware of a computer, they are what makes the computer function. Software produces digital executions that can be repeatedly reproduced, therefore making it infinite. Software is also constantly evolving to meet the needs of the world, another reason why it can be considered infinite.
+ 
+4.  Explain in your own words how code becomes software. (150 words max)
+
+
+Code becomes software by translating a set of clear and detailed instructions, or “language” that can be carried out by “interconnected logic gates”. Programming languages allows developers to arrange their instructions in strings, arrays, and trees that can then be passed on to a compiler which turns this language into lower-level instructions. The compiler then goes through every piece of character in the set of instructions looking for arguments and functions for the computer to carry out.
+
+
+5.  Explain “algorithms” in your own words. (150 words max)
+
+
+Algorithms are problem solving operations that ultimately make our lives easier. These operations are constantly used in programming. Programming languages are able to organize algorithms in a way that is easy to run them as many times as needed without having to code for the algorithm constantly. Programming languages can bring together algorithms and execute them in a way that can make the computer look as if it’s performing functions instinctually when it’s really not. 
+
+
+6.  Explain the DRY principle. (100 words max)
+
+
+DRY is an acronym that stands for Don’t Repeat Yourself. This principle says that programmers should not repeat themselves but instead let the computer do the repeat. This principle suggests that programmers make their code more concise leading to code that is readable and maintainable.
+
+
+7.  In your own words, what is object-oriented programming? (100 words max)
+
+
+Object oriented programming is a type of programming that is associated with certain languages. It tries to replicate real world objects. It allows you to build a real world representation of an idea by adding attributes and functions.  
+
+
+8.  In your own words explain data and how it relates to code. (100 Words max)
+
+
+     Data is the information gathered by third parties like Facebook, twitter, Spotify, etc. Data can be user information like their age, address, favorite dish, or information collected depending on behaviors of people, like the type of music they listen to, steps taken in a day, or different restaurants they have visited. Nowadays the amount of data being collected is immense and therefore a better way to manage data is needed. Data programming (code) can handle large amounts of data and makes the data easier to interpret for companies. Companies often use this data to look at trends and strategize their next moves. 
+
+
+9.  What is a framework? (150 words max)
+
+
+     A framework is a platform where software applications are developed. Frameworks often takes care of the low-level functionality of an application and lets the developer focus on the the high-level functionality. It is able to do this because of the functions and objects it has built in. Frameworks can help so that code is not duplicated, stays consistent, and contains fewer bugs.
+
+
+10. What is debugging? (150 words max)
+
+
+     Debugging is the process of identifying “bugs” or sources of errors exist within the code. Debugging also involves the removal of those bugs or errors. The reason why debugging is programming is because when writing new code, programmers often will run into bugs in their code and being able to successfully write a code will usually mean fixing bugs. As a programmer you need to leverage error messages and, depending on the language that you’re using, techniques and tools that will help you speed up that process. For example, you can use debugger in JavaScript or pry in Ruby.
+
+
+11. Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+    
+     I think learning how to code is becoming a very important asset to have in this world that is continuously evolving in the direction of technology. My curiosity for code began when I started working in the medical research field. In the research field we are constantly working with data. Data, in general, can range from a sample of 30 participants to millions of participants. It became apparent to me that somehow data and programming were connected but I honestly did not understand the details behind the connection. Learning about data science and now more specifically what code is, I am able to bridge the gap between data and programming. Understanding that through programming languages we can manage data has made me want to learn how to code more than ever. I want to be able to master python and use either data I collect or use open data to analyze trends in order to create mental wellness interventions aimed at underrepresented groups. Although programming is already used in the research world (we mostly see this within large institutions like CDC, WHO, DOE, IRS), I have noticed that it is not very popular within small departments within academic institutions carrying out behavioral studies, which is what I’m most interested in. This could be due to the costs behind hiring a programmer or the lack of programmers interested in behavioral and psychological research. I don’t only want to become more knowledgeable in the field of behavior and psychology, but I also want to learn data science to help me develop interventions that are more in tune with the world we are living in today.
